@@ -25,4 +25,4 @@ The user should be able to:
 
 ## Installation
 
-[npm i] and [npm init] to install node_modules, package.json and package-lock.json. [npm start] to run react app. [npx create-react-app <file>] to create react app. Deployed to GitHub Pages using the [Create React App docs for deployment.
+`npm i` and `npm init` to install node_modules, package.json and package-lock.json. `npm start` to run react app. `npx create-react-app <file>` to create react app. Deployed to GitHub Pages using the Create React App docs for deployment.
